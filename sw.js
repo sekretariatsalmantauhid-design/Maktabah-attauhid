@@ -1,5 +1,5 @@
 // GANTI VERSI INI KALAU BOS UPDATE KODE HTML BIAR CACHE USER KE-RESET (Misal: v2, v3)
-const CACHE_NAME = 'maktabah-pro-v2.2'; 
+const CACHE_NAME = 'maktabah-pro-v2.3'; 
 
 const urlsToCache = [
   './',
