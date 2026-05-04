@@ -4,8 +4,8 @@
   "start_url": "/Maktabah-attauhid/",
   "scope": "/Maktabah-attauhid/",
   "display": "fullscreen",
-  "background_color": "#FFF8DC",
-  "theme_color": "#FFF8DC",
+  "background_color": "#f5f5dc",
+  "theme_color": "#f5f5dc",
   "icons": [
     {
       "src": "icon-512.png",
