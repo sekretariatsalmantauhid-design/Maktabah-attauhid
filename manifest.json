@@ -1,7 +1,8 @@
 {
   "name": "Maktabah Tracker Pro",
   "short_name": "Maktabah",
-  "start_url": "./",
+  "start_url": "/./",
+  "scope": "/./",
   "display": "fullscreen",
   "background_color": "#f8fafc",
   "theme_color": "#4f46e5",
